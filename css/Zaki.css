@@ -3,13 +3,20 @@ nav {
 }
 
 header {
-    background-image: url(../Images/Camera4.jpg);
+    background-image: url(../Images/Zoz.webp);
     background-size: cover;
     background-position: center;
     min-height: 100vh;
     max-width: 100vw;
 }
 
-a {
-    font-size: 100px;
+header a {
+    border: 1 px black;
+    margin-top: 30px;
+    font-size: 27px;
+    text-decoration: none;
+    color: black;
+}
+#zoz{
+    margin-bottom: 50px;
 }
